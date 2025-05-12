@@ -20,7 +20,7 @@
 5. wrap it in aluminum foil as tight as possible
 6. wrap it two more times in aluminum foil
 7. place in a roasting pan
-8. bake at 225F (110C) for 1.75 hours per pound of pork
+8. bake at 225F (110C) in a pre-heated oven for 1.75 hours per pound of pork
 9. after taking it out, let it side for at least an hour before unwrapping
 
 # References
