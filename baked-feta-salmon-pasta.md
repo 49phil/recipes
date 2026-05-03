@@ -13,7 +13,7 @@
 
 # Recipe
 
-1. add salmon, feta cheese, cherry tomatoes and garliv cloves to a baking dish
+1. add salmon, feta cheese, cherry tomatoes and garlic cloves to a baking dish
 2. add olive oil
 3. add seasonings
 4. preheat oven to 180C
