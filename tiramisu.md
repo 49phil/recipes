@@ -15,7 +15,7 @@
 
 1. pull two shots café americano
     1. usually 1:4 ratio coffee to water, so one double shot (~40g) needs 160g of water, though you can also do 1:3 or 1:5 ratio
-    2. therefore, pull two shots and add 360ml hot (60 to 70C) water
+    2. therefore, pull two shots and add 320g hot (60 to 70C) water
 2. while the coffee cools to room temperature, prepare the mascarpone
     1. separate eggs
     2. add half of the sugar and a pinch of salt to the egg white
